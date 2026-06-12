@@ -2,9 +2,9 @@
 
 I'm Vaibhav Sengar, a Computer Science Major in India.
 
-I mostly work on full stack devlopment, vibe coding (bit), and learning more about Software Engineering. 
+I enjoy building projects, learning new technologies, and exploring the world of Software Engineering.
 
-I also use Figma for UI design and Procreate when I want to sketch ideas.
+Currently, I'm focused on improving my problem-solving skills, learning DSA, and building useful applications.
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
 
@@ -12,15 +12,15 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 
 ### Tools & Tech
 
-- React, TypeScript, Tailwind  
-- Framer Motion for animations  
-- Figma, Apple Notes, Procreate
+- React, Python, C++  
+- VS Code, Git, GitHub 
+- Linux (Learning), Figma, Canva
 
 ---
 
 ### A Bit About Me
 
-- 🐈 I have two cats  
-- 🍵 Not a coffee or tea person  
-- 🎴 Into anime — *Demon Slayer* is a favorite  
-- 🧱 I like building things that are simple, useful, and easy to understand
+- 📓 Always learning something new
+- 🍵 A coffee person  
+- 📺 Anime fan — *One Punch Man* is a favorite
+- 🧱 I enjoy solving prblems and building useful things
