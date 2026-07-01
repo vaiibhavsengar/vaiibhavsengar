@@ -23,4 +23,4 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 - 📓 Always learning something new
 - 🍵 A coffee person  
 - 📺 Anime fan — *One Punch Man* is a favorite
-- 🧱 I enjoy solving prblems and building useful things
+- 🧱 I enjoy solving problems and building useful things
