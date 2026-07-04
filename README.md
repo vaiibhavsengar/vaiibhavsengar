@@ -15,7 +15,7 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 - React, Python, C++  
 - VS Code, Git, GitHub 
 - Linux (Learning), Figma, Canva
-
+- Web Development (HTML, JavaScript, CSS)
 ---
 
 ### A Bit About Me
