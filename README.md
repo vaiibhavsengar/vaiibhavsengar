@@ -4,7 +4,7 @@ I'm Vaibhav Sengar, a Computer Science Major in India.
 
 I enjoy building projects, learning new technologies, and exploring the world of Software Engineering.
 
-Currently, I'm focused on improving my problem-solving skills, learning DSA, and building useful applications.
+Currently, I'm focused on improving my problem-solving skills, learning something new, and building useful applications.
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
 
